@@ -2,6 +2,7 @@ Hi 👋 My name is Heet Patel
 ===========================
 
 A CSE (AI) undergraduate who prefers building real-world systems over just writing theory answers.
+
 --------------------------------------------------------------------------------------------------
 
 I enjoy working at the intersection of Python, Full-Stack Development, AI, Cybersecurity. Most of my learning comes from hands-on projects—experimenting, breaking things, fixing them, and making them better.
