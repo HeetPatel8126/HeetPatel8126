@@ -163,14 +163,6 @@ Math foundations for Data Science including statistics and ML concepts.
 
 ---
 
-# 💬 Discord Presence 
-<div align="center"> 
-  <a href="https://discord.com/users/742374133945597973"> 
-    <img src="https://lanyard-profile-readme.vercel.app/api/742374133945597973?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=20px" /> </a> 
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
