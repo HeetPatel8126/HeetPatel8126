@@ -157,18 +157,16 @@ Math foundations for Data Science including statistics and ML concepts.
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/2dDL22yGeV?theme=dark&font=Fira+Code&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/HeetPatel8126?theme=dark&font=Fira+Code&ext=contest" />
 
 </div>
 
 ---
 
-# 💬 Discord Presence
-
-<div align="center">
-
-<img src="https://lanyard.cnrad.dev/api/742374133945597973?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=20px" />
-
+# 💬 Discord Presence 
+<div align="center"> 
+  <a href="https://discord.com/users/742374133945597973"> 
+    <img src="https://lanyard-profile-readme.vercel.app/api/742374133945597973?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=20px" /> </a> 
 </div>
 
 ---
