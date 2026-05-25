@@ -1,18 +1,209 @@
-# 💫 About Me:
-A CSE (AI) undergraduate who prefers building real-world systems over just writing theory answers.<br><br>I enjoy working at the intersection of Python, Full-Stack Development, AI, Cybersecurity. Most of my learning comes from hands-on projects—experimenting, breaking things, fixing them, and making them better.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=280&section=header&text=Heet%20Patel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20AI%20Engineer%20&descAlignY=58&descSize=18" />
+</p>
 
+<div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/redninja8126) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/heet-patel-52139b320/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:heetpatel081206@gmail.com) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Real-World+Systems;AI+%2B+Cybersecurity+Projects;Backend+%26+Automation+Focused;Always+Learning+Something+New" />
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HeetPatel8126&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HeetPatel8126&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HeetPatel8126&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HeetPatel8126&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💻 whoami
+
+```bash
+> whoami
+
+Name      :: Heet Patel
+Role      :: Full-Stack Developer & AI Engineer
+Focus     :: AI • Cybersecurity • Backend Systems
+Projects  :: Real-world systems & automation
+Learning  :: Build → Break → Improve
+Stack     :: Python • FastAPI • MySQL
+OS        :: Windows + Linux
+Mindset   :: Real-world over theory
+```
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,mysql,tensorflow,pytorch,git,github,linux,docker,vscode,bash,kali" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 🧬 SyntheticDataGen
+
+AI-powered synthetic dataset generation system for ML training and privacy-safe simulations.
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+
+<br><br>
+
+<a href="https://github.com/HeetPatel8126/SyntheticDataGen">Repository ↗</a>
+
+</td>
+
+<td width="50%">
+
+## 🛡️ NIDRS
+
+Network Intrusion Detection & Response System focused on anomaly detection and cybersecurity analytics.
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,mysql" />
+
+<br><br>
+
+<a href="https://github.com/HeetPatel8126/NIDRS">Repository ↗</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🧹 DataScruber
+
+Toolkit for cleaning noisy and inconsistent datasets.
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br><br>
+
+<a href="https://github.com/HeetPatel8126/DataScruber">Repository ↗</a>
+
+</td>
+
+<td width="50%">
+
+## 📊 MathforDS
+
+Math foundations for Data Science including statistics and ML concepts.
+
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
+
+<br><br>
+
+<a href="https://github.com/HeetPatel8126/MathforDS">Repository ↗</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📚 Currently Exploring
+
+```txt
+• Advanced AI Systems
+• Backend Architecture
+• Cybersecurity Fundamentals
+• Real-Time Monitoring Systems
+```
+
+---
+
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HeetPatel8126&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HeetPatel8126&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeetPatel8126&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HeetPatel8126&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HeetPatel8126&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+# 🧠 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/2dDL22yGeV?theme=dark&font=Fira+Code&ext=contest" />
+
+</div>
+
+---
+
+# 💬 Discord Presence
+
+<div align="center">
+
+<img src="https://lanyard.cnrad.dev/api/742374133945597973?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=20px" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🌐 Connect
+
+<div align="center">
+
+<a href="https://github.com/HeetPatel8126">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/heet-patel-52139b320/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:heetpatel081206@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://discord.com/users/redninja8126">
+<img src="https://skillicons.dev/icons?i=discord" />
+</a>
+
+</div>
+
+---
+
